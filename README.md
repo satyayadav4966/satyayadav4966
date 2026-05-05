@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Satyaprakash Yadav
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyayadav4966) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyaprakash-yadav-6a36b32b9/) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
